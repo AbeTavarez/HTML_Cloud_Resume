@@ -2,6 +2,10 @@
 .content-links {
     
 }
+.logo {
+    margin-left: 55px;
+    font-size: larger;
+}
 
 .links span{
     display: block;
