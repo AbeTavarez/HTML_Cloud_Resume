@@ -3,11 +3,18 @@
     
 }
 
-.nav-wrapper {
-    background-color: orangered;
-}
+
 
 .links span{
     display: block;
 }
 
+.profile-pic {
+    width: 300px;
+    height: 200px;
+    border-radius: 10%;
+}
+
+.top-hr {
+    margin-top: 20px;
+}
