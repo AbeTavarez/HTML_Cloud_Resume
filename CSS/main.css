@@ -3,8 +3,6 @@
     
 }
 
-
-
 .links span{
     display: block;
 }
@@ -13,8 +11,17 @@
     width: 300px;
     height: 200px;
     border-radius: 10%;
+    margin-top: 5px;
 }
 
 .top-hr {
     margin-top: 20px;
+}
+
+.listing li{
+    margin-left: 25px;
+    margin-top: 5px;
+}
+li {
+    list-style-type: disc;
 }
