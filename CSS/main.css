@@ -2,9 +2,10 @@
 .content-links {
     
 }
+
 .logo {
     margin-left: 55px;
-    font-size: larger;
+    font-size: 22px;
 }
 
 .links span{
@@ -12,7 +13,7 @@
 }
 
 .profile-pic {
-    width: 300px;
+    width: 350px;
     height: 200px;
     border-radius: 10%;
     margin-top: 5px;
@@ -28,4 +29,12 @@
 }
 li {
     list-style-type: disc;
+}
+
+.ex-header h6 {
+    font-weight: 500;
+}
+
+.ex-header p {
+    font-style: italic;
 }
