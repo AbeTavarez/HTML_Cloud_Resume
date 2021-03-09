@@ -17,6 +17,6 @@ You can also follow me here on GitHub.
 
 1.0.o
 
-## Authors
+## Author
 
-- **Efren Abraham Tavarez** - _Initial work_ - [PurpleBooth](https://github.com/AbeTavarez)
+- **Efren Abraham Tavarez** - _Initial work_ - [AbeTavarez](https://github.com/AbeTavarez)
