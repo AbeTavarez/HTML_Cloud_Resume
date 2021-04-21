@@ -39,3 +39,7 @@ li {
     max-width: 300px;
     margin-top: 20px;
 }
+
+.skills-bar span {
+    font-weight: bold;
+}
