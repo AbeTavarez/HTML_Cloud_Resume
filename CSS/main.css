@@ -32,5 +32,10 @@ li {
 }
 
 .ex-header p {
-    font-style: italic;
+  font-style: italic;
+}
+
+.skills-bar {
+    max-width: 300px;
+    margin-top: 20px;
 }
